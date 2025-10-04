@@ -2,7 +2,7 @@
 
 **Watch YouTube videos while you work.** FloatTube keeps your favorite videos floating above everything else, perfect for tutorials, music, and staying productive.
 
-🌐 **Website**: [https://floatube.dev/](https://floatube.dev/)
+🌐 **Website**: [floatube.dev](https://floatube.dev/)
 
 ## Features
 

@@ -18,8 +18,8 @@
 ## Download
 
 ### macOS
-- **Apple Silicon (M1/M2/M3)**: [FloatTube-1.0.0-arm64.dmg](FloatTube-1.0.0-arm64.dmg)
-- **Intel Mac**: [FloatTube-1.0.0.dmg](FloatTube-1.0.0.dmg)
+- **Apple Silicon (M1/M2/M3)**: [Download](FloatTube-1.0.0-arm64.dmg)
+- **Intel Mac**: [Download](FloatTube-1.0.0.dmg)
 
 ## Security
 

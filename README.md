@@ -18,8 +18,14 @@
 ## Download
 
 ### macOS
-- **Apple Silicon (M1/M2/M3)**: [Download](FloatTube-1.0.0-arm64.dmg)
-- **Intel Mac**: [Download](FloatTube-1.0.0.dmg)
+- **Apple Silicon (M1/M2/M3)**: [Download](https://github.com/BashirMohamedAli/floatube-releases/releases/download/v1.0.0/FloatTube-1.0.0-arm64.dmg)
+- **Intel Mac**: [Download](https://github.com/BashirMohamedAli/floatube-releases/releases/download/v1.0.0/FloatTube-1.0.0.dmg)
+
+### Windows
+- **Windows Installer (.exe)**: [Download](https://github.com/BashirMohamedAli/floatube-releases/releases/download/v1.0.0/FloatTube.Setup.1.0.0.exe)
+### Linux
+- **AppImage (x64)**: [Download](https://github.com/BashirMohamedAli/floatube-releases/releases/download/v1.0.0/FloatTube-1.0.0.AppImage)
+- **Debian package (amd64)**: [Download](https://github.com/BashirMohamedAli/floatube-releases/releases/download/v1.0.0/floatube_1.0.0_amd64.deb)
 
 ## Security
 
